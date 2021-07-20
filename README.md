@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JS, Python and Ethical Hacking.**
 
-- 📫 How to reach me **goltarayago@outlook.com**
+- 📫 How to reach me: **goltarayago@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
