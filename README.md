@@ -17,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goltaraya&show_icons=true&locale=en&layout=compact" alt="goltaraya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goltaraya&show_icons=true&locale=en" alt="goltaraya" /></p>
-
