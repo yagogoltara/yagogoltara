@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yago Goltara!</h1>
 <h3 align="center">I'm a Computer Engineering Student from Brazil</h3>
 
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Java**.
 
 - 📫 How to reach me: **goltarayago@gmail.com**
 
