@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Moodle - Virtual Learning Environment**
 
-- 🌱 I’m currently learning **PHP and JavaScript**
+- 🌱 I’m currently learning **PHP**
 
-- 👯 I’m looking to collaborate on **PHP and JavaScript projects**
+- 👯 I’m looking to collaborate on **PHP projects**
 
 - 📫 How to reach me **goltarayago@gmail.com**
 
-- ⚡ Interesting fact **I love Martial Arts and Weightlifting**
+- ⚡ Interesting fact **I love Bodybuilding and Weightlifting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
