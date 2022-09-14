@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Moodle - Virtual Learning Environment**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **PHP projects**
+- 👯 I’m looking to collaborate on **Java projects**
 
 - 📫 How to reach me **goltarayago@gmail.com**
 
