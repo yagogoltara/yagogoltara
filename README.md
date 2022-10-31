@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yago Alexandre</h1>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Back-end projects**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
 - 📫 How to reach me **goltarayago@gmail.com**
 
