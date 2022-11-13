@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yago Alexandre</h1>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Information Security**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning, IA and Deep Learning projects**
+- 👯 I’m looking to collaborate on **Hacking tools**
 
 - 📫 How to reach me **goltarayago@gmail.com**
 
