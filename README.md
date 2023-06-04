@@ -1,6 +1,6 @@
 # Olá, me chamo Yago Alexandre ! 
 ## Bem vindo ao meu perfil do GitHub 👋
-- 🔭 Atualmente estou trabalhando no TCE - MA como estagiário de TI, focado em Devops e Infraestrutura!
+- 🔭 Atualmente estou trabalhando no TCE - MA como estagiário de TI.
 - 🌱 Atualmente estou aprendendo Docker e Kubernetes.
 - 📫 Como entrar em contato comigo: goltarayago@gmail.com ou por @goltaraya (Instagram)
 - ⚡ Curiosidade: Sou artista marcial e um grande amante de lutas.
