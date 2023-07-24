@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil do GitHub 👋
 - 🔭 Atualmente estou trabalhando no TCE - MA como estagiário de TI.
 - 🌱 Atualmente estou aprendendo Cibersegurança.
-- 📫 Como entrar em contato comigo: goltarayago@gmail.com ou por @yago.goltara (Instagram)
+- 📫 Como entrar em contato comigo: goltarayago@gmail.com ou por @yagoalexandre00 (Instagram)
 - ⚡ Curiosidade: Sou artista marcial e um grande amante de lutas.
 
 ## Ferramentas e Tecnologias
