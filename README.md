@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil do GitHub 👋
 - 🔭 Atualmente estou trabalhando no TCE - MA como estagiário de TI.
 - 🌱 Atualmente estou aprendendo Docker e Kubernetes.
-- 📫 Como entrar em contato comigo: goltarayago@gmail.com ou por yagoalexandre00 (Discord)
+- 📫 Como entrar em contato comigo: goltarayago@gmail.com ou por yagoalexandre00 (Discord, Instagram)
 
 ## Tecnologias
 ### Ferramentas
