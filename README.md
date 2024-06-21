@@ -1,8 +1,8 @@
-# Olá, me chamo Yago Alexandre ! 
-## Bem vindo ao meu perfil do GitHub 👋
-- 🔭 Atualmente estou trabalhando no TCE - MA como Analista de Infraestrutura.
-- 🌱 Atualmente estou aprendendo Terraform e AWS.
-- 📫 Como entrar em contato comigo: goltarayago@gmail.com ou por yagoalexandre00 (Discord, Instagram)
+# Hey, I am Yago Alexandre ! 
+## Be welcomed to my GitHub profile 👋
+- 🔭 Currently working as Infrastructure Analyst with Devops/Cloud skills.
+- 🌱 Currently developing my Kubernetes skills in EKS (AWS).
+- 📫 How to stay in touch with me: goltarayago@gmail.com or https.yagoalexandre (Discord, Instagram)
 
-## Tecnologias
+## Techs I use in my day by day
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,kubernetes,docker,ansible,terraform,aws,grafana,bash,python)](https://skillicons.dev)
