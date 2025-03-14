@@ -1,7 +1,7 @@
 # Hey, I am Yago Goltara! 
 ## Be welcomed to my GitHub profile 👋
 - 🔭 Currently working as Devops Engineer.
-- 🌱 Currently developing my cybersecurity and red team skills.
+- 🌱 Currently developing my AWS skills.
 - 📫 How to stay in touch with me: goltarayago@gmail.com, golt404ra (Discord), yagogoltara (Linkedin)
 
 ## Techs I use in my day by day
