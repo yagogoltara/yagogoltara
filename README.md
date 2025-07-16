@@ -1,7 +1,7 @@
 # Hey, I am Yago Goltara! 
 ## Be welcomed to my GitHub profile 👋
 - 🔭 Currently working as Devops Engineer.
-- 🌱 Currently developing my AWS skills.
+- 🌱 Currently developing my AWS and Terraform skills.
 - 📫 How to stay in touch with me: goltarayago@gmail.com, golt404ra (Discord), yagogoltara (Linkedin)
 
 ## Techs I use in my day by day
