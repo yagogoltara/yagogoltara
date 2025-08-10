@@ -2,7 +2,7 @@
 ## Be welcomed to my GitHub profile 👋
 - 🔭 Currently working as Devops Engineer migrating to Cybersecurity.
 - 🌱 Currently developing my Pentesting and Red Teaming skills.
-- 📫 How to stay in touch with me: goltarayago@gmail.com, golt404ra (Discord/Instagram), yagogoltara (Linkedin)
+- 📫 How to stay in touch with me: goltarayago@gmail.com, golt404ra (Discord), yagogoltara (Linkedin)
 
 ## TryHackMe Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/golt404ra.png?update=2" alt="golt404ra profile" />
